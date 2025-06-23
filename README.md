@@ -71,7 +71,7 @@ All visuals are dynamically connected using slicers and PivotTables.
 If you're a recruiter, peer, or mentor — feel free to reach out or give feedback!
 
 - **LinkedIn**: [https://www.linkedin.com/in/vaishnavi-sinha-v2005/]
-- **GitHub**: [Your GitHub username]
+- **GitHub**: [https://github.com/Vaishnavi-020]
 
 ---
 
