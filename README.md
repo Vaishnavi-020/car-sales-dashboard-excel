@@ -48,9 +48,7 @@ All visuals are dynamically connected using slicers and PivotTables.
 
 ## 📷 Screenshot
 
-> *(Insert a screenshot of your dashboard here)*  
-> To add: take a clear screenshot and upload to the GitHub repo or include in your LinkedIn post.
-
+![Dashboard Screenshot](car-sales-dashboard.png)
 ---
 
 ## ✅ How to Use
